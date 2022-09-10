@@ -1,7 +1,7 @@
 ### Hi! I'm Giovana Corrêa
 
 - 👩🏼‍💻 I’m a software development student
-- ✨ I’m currently working on developing my technical skills
+- 🌟 I’m currently working on developing my technical skills
 - 💬 Languages: Portuguese and English
 
 <div style="display: inline_block"><br>
