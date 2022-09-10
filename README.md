@@ -1,4 +1,4 @@
-### Hi! I'm Giovana Corrêa 👋
+### Hi! I'm Giovana Corrêa
 
 - 👩🏼‍💻 I’m a software development student
 - ✨ I’m currently working on developing my technical skills
