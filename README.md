@@ -1,8 +1,8 @@
-### Hi! I'm Giovana Corrêa
+### Hi! I'm Giovana Corrêa 👩🏼‍💻
 
-- 👩🏼‍💻 I’m a software development student
-- 🌟 I’m currently working on developing my technical skills
-- 💬 Languages: Portuguese and English
+- I’m a software development student
+- I’m currently working on developing my technical skills
+- Languages: Portuguese and English
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
