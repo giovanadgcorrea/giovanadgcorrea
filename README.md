@@ -1,8 +1,8 @@
-### Hi! I'm Giovana Corrêa ✨
+### Hi! I’m Giovana Corrêa ✨
 
 - I’m a software developer
-- I’m currently learning new technologies
 - I speak Portuguese and English
+- I’m currently learning new technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
