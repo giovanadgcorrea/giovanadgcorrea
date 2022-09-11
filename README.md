@@ -1,7 +1,7 @@
 ### Hi! I'm Giovana Corrêa ✨
 
 - I’m a software developer
-- I’m currently working on developing my technical skills
+- I’m currently learning new technologies
 - Languages: Portuguese and English
 
 <div style="display: inline_block"><br>
