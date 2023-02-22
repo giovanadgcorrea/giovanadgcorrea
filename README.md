@@ -1,8 +1,8 @@
-### Hi! I’m Giovana Corrêa ✨
+### Olá!
 
-- I’m a software developer
-- I speak Portuguese and English
-- I’m currently learning new technologies
+Meu nome é Giovana, sou graduanda em Análise e Desenvolvimento de Sistemas e desenvolvedora front-end. 
+Vivo em constante aprendizado para aprimorar meus conhecimentos em novas tecnologias. 
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
